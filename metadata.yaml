@@ -1,5 +1,8 @@
 _repo: The-Geology-of-DAR-State-Park-Mt-Philo-State-Forest-Park-Sand-Bar-State-Park_60989
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60989-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dodge, Harry W.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51215'
     url: http://www.gutenberg.org/2009/agents/51215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60989#The-Geology-of-DAR-State-Park-Mt-Philo-State-Forest-Park-Sand-Bar-State-Park
 gutenberg_issued: '2019-12-22'
 gutenberg_type: Text
 identifiers:
